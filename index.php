@@ -21,7 +21,7 @@
         <input type="text" name="phone" id="phone" required/> <br>
 
         <label for="bgroup">Blood Group:</label><br>
-        <input type="group" name="group" id="group" required/> <br><br>
+        <input type="group" name="bgroup" id="bgroup" required/> <br><br>
 
         <input type="submit" name="submit" id="submit"/><br>
 
